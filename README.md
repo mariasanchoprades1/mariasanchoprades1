@@ -8,23 +8,6 @@
 <p align="center">Dedicated to professional development, I am characterized by my perseverance, ambition, and adaptability. I am firmly committed to continuous improvement</p>
 <br>
 <p align="center">Let's open-source together! Send me a <a href="https://www.marisanchoprades.com" rel="web" target="_blank">link!</a></p>
-
-
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="mailto: mm.sancho.p1@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/dotty/40/000000/email.png" alt="marisabrantley email" />
-</a>
-<a href="https://instagram.com/marisab_oc" rel="noopener noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marisab_oc" height="30" width="40" /></a>
-</p>
-<p align="left">
-<a href="https://twitter.com/marisabrantley" rel="noopener noreferrer" target="_blank"> <img src="https://img.shields.io/twitter/follow/marisabrantley?logo=twitter&style=for-the-badge" alt="marisabrantley" /></a>
-</p>
-<br>
-
-<h2 align="left">Recent Blog Post:</h2>
-<p align="left">
-:point_right:  <a href="https://dev.to/marisabrantley/10-things-i-wish-id-known-when-starting-my-coding-journey-3ga1" rel="noopener noreferrer" target="_blank">10 Things I Wish I'd Known When Starting My Coding Journey</a><br>(The <a href="https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-59ba">most popular DEV post</a> the week it was published)
-</p>
 <br>
 
 <h2 align="left">Languages and Tools:</h2>
