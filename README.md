@@ -1,4 +1,4 @@
-![GitHub Readme Profile Banner copy](file:///C:/Users/msanc/Downloads/78da0f52-b7d9-4e06-a844-e7dfee21c342.webp)
+![GitHub Readme Profile Banner copy](gitHub.png)
 <br>
 <br>
 
