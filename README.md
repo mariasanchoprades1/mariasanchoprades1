@@ -2,7 +2,7 @@
 <br>
 <br>
 
-<h2 align=center>Hi! I'm Marisa Sancho.</h2>
+<h2 align=center>Hi! I'm Maria Sancho.</h2>
 <h3 align=center>WEB DESIGNER</h3>
 <br>
 <p align="center">Dedicated to professional development, I am characterized by my perseverance, ambition, and adaptability. I am firmly committed to continuous improvement</p>
@@ -15,10 +15,6 @@
 <a href="mailto: mm.sancho.p1@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/dotty/40/000000/email.png" alt="marisabrantley email" />
 </a>
 <a href="https://instagram.com/marisab_oc" rel="noopener noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marisab_oc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marisabrantley" rel="noopener noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marisabrantley" height="30" width="40" /></a>
-<a href="https://codepen.io/marisab" rel="noopener noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="marisab" height="30" width="40" /></a>
-<a href="https://dev.to/marisabrantley" rel="noopener noreferrer" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="marisabrantley" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16354014" rel="noopener noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16354014" height="30" width="40" /></a>
 </p>
 <p align="left">
 <a href="https://twitter.com/marisabrantley" rel="noopener noreferrer" target="_blank"> <img src="https://img.shields.io/twitter/follow/marisabrantley?logo=twitter&style=for-the-badge" alt="marisabrantley" /></a>
