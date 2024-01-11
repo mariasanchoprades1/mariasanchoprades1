@@ -2,17 +2,17 @@
 <br>
 <br>
 
-<h2 align=center>Hi! I'm Marisa Brantley.</h2>
-<h3 align=center>Frontend Developer and UI Designer</h3>
+<h2 align=center>Hi! I'm Marisa Sancho.</h2>
+<h3 align=center>WEB DESIGNER</h3>
 <br>
-<p align="center">I enjoy creating accessible websites that convey the most satisfying, effective and visually appealing experience for all users.<br>With backgrounds in law and ecommerce, I appreciate details, meeting deadlines,<br>clear communication, and making businesses' visions come to life.</p>
+<p align="center">Dedicated to professional development, I am characterized by my perseverance, ambition, and adaptability. I am firmly committed to continuous improvement</p>
 <br>
-<p align="center">Let's open-source together! Send me a <a href="https://twitter.com/marisabrantley" rel="noopener noreferrer" target="_blank">link!</a></p>
+<p align="center">Let's open-source together! Send me a <a href="https://www.marisanchoprades.com" rel="web" target="_blank">link!</a></p>
 
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="mailto: marisakbrantley@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/dotty/40/000000/email.png" alt="marisabrantley email" />
+<a href="mailto: mm.sancho.p1@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/dotty/40/000000/email.png" alt="marisabrantley email" />
 </a>
 <a href="https://instagram.com/marisab_oc" rel="noopener noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marisab_oc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marisabrantley" rel="noopener noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marisabrantley" height="30" width="40" /></a>
