@@ -3,7 +3,7 @@
 <h2 align=center>Hi! I'm Maria Sancho.</h2>
 <h3 align=center>WEB DESIGNER</h3>
 <br>
-<p align="center">Let's open-source together! Send me a <a href="https://www.marisanchoprades.com" rel="web" target="_blank">link!</a></p>
+<p align="center"> This is my personal page, I'm working on it <a href="https://www.marianchoprades.com" rel="web" target="_blank">link!</a></p>
 <br>
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
