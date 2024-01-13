@@ -1,15 +1,10 @@
 ![GitHub Readme Profile Banner copy](gitHub.png)
 <br>
-<br>
-
 <h2 align=center>Hi! I'm Maria Sancho.</h2>
 <h3 align=center>WEB DESIGNER</h3>
 <br>
-<p align="center">Dedicated to professional development, I am characterized by my perseverance, ambition, and adaptability. I am firmly committed to continuous improvement</p>
-<br>
 <p align="center">Let's open-source together! Send me a <a href="https://www.marisanchoprades.com" rel="web" target="_blank">link!</a></p>
 <br>
-
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a>
